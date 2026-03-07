@@ -1,0 +1,36 @@
+echo "# 罗克韦尔 PLC 项目 Git 忽略规则" > .gitignore
+
+## 1. 二进制项目文件（我们不直接跟踪 ACD）
+*.acd
+ 
+## 2. 临时文件和备份
+*.bak
+*.tmp
+*.l5x_bak
+*_Backup_*
+ 
+## 3. 个人工作区设置（不同版本软件可能有不同后缀）
+*.als
+*.aws
+*.awp
+*.lxf
+ 
+## 4. 编译/生成中间文件
+*.dll
+*.exe
+*.obj
+*.bin
+ 
+## 5. 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+ 
+## 6. 日志文件
+*.log
+ 
+## 7. 归档目录（可选，如果你希望手动归档，可以忽略整个目录）
+/2-Archive/
+ 
+## 8. 如果你使用 plc-format-converter 等工具生成的临时文件
+temp_*
