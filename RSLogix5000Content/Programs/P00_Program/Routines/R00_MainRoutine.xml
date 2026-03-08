@@ -5,7 +5,8 @@
       <Comment><![CDATA[
 
 
-Utilize LDSDK to set values for box_width & box_length and to get box_area's valu]]></Comment>
+Utilize LDSDK to set values for box_width & box_length and to get box_area's valu
+This is for VCS Tools testing]]></Comment>
       <Text><![CDATA[MUL(box_width,box_length,box_area);]]></Text>
     </Rung>
     <Rung Type="N">
