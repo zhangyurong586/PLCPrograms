@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Routine Name="R00_MainRoutine" Type="RLL">
+  <RLLContent>
+    <Rung Type="N">
+      <Comment><![CDATA[
+
+
+Utilize LDSDK to set values for box_width & box_length and to get box_area's valu]]></Comment>
+      <Text><![CDATA[MUL(box_width,box_length,box_area);]]></Text>
+    </Rung>
+    <Rung Type="N">
+      <Comment><![CDATA[
+Use LDSDK to set compareValue_for_box_area's value and to get area_comparison_result.
+
+]]></Comment>
+      <Text><![CDATA[GT(box_area,10)OTE(area_comparison_result1);]]></Text>
+    </Rung>
+  </RLLContent>
+</Routine>
