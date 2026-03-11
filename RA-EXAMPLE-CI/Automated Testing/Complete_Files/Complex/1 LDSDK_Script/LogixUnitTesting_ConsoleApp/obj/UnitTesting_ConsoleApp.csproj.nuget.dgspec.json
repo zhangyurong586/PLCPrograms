@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+        "projectName": "LogixEcho_ClassLibrary",
+        "projectPath": "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\ContentAdmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ContentAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Rockwell Software\\FactoryTalk Logix Echo\\SDK": {},
+          "C:\\Users\\Public\\Documents\\Studio 5000\\Logix Designer SDK\\dotnet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RockwellAutomation.FactoryTalkLogixEcho.Api.Client": {
+              "target": "Package",
+              "version": "[3.0.1130, )"
+            },
+            "RockwellAutomation.LogixDesigner.CSClient": {
+              "target": "Package",
+              "version": "[2.0.861, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+        "projectName": "UnitTesting_ConsoleApp",
+        "projectPath": "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\ContentAdmin\\.nuget\\packages\\",
+        "outputPath": "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ContentAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Rockwell Software\\FactoryTalk Logix Echo\\SDK": {},
+          "C:\\Users\\Public\\Documents\\Studio 5000\\Logix Designer SDK\\dotnet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {
+                "projectPath": "C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.3.2, )"
+            },
+            "RockwellAutomation.FactoryTalkLogixEcho.Api.Client": {
+              "target": "Package",
+              "version": "[3.0.1130, )"
+            },
+            "RockwellAutomation.LogixDesigner.CSClient": {
+              "target": "Package",
+              "version": "[2.0.861, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

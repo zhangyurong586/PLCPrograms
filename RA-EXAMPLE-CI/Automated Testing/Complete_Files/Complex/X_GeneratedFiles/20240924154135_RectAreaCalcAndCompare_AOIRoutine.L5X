@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<RSLogix5000Content SchemaRevision="1.0" SoftwareRevision="36.00" TargetName="R01_UnitTesting" TargetType="Routine" ContainsContext="true" ExportDate="Tue Sep 24 15:42:31 2024" ExportOptions="References NoRawData L5KData DecoratedData Context Dependencies ForceProtectedEncoding AllProjDocTrans" TargetSubType="RLL">
+  <Controller Use="Context" Name="UnitTest_Controller">
+    <DataTypes Use="Context"></DataTypes>
+    <AddOnInstructionDefinitions Use="Context">
+      <AddOnInstructionDefinition Name="RectAreaCalcAndCompare" Revision="1.0" ExecutePrescan="false" ExecutePostscan="false" ExecuteEnableInFalse="false" CreatedDate="2024-09-24T18:01:44.354Z" CreatedBy="RA-INT\ASYost" EditedDate="2024-09-24T18:05:44.875Z" EditedBy="RA-INT\ASYost" SoftwareRevision="v36.00">
+        <Parameters>
+          <Parameter Name="EnableIn" TagType="Base" DataType="BOOL" Usage="Input" Radix="Decimal" Required="false" Visible="false" ExternalAccess="Read Only">
+            <Description><![CDATA[Enable Input - System Defined Parameter]]></Description>
+          </Parameter>
+          <Parameter Name="EnableOut" TagType="Base" DataType="BOOL" Usage="Output" Radix="Decimal" Required="false" Visible="false" ExternalAccess="Read Only">
+            <Description><![CDATA[Enable Output - System Defined Parameter]]></Description>
+          </Parameter>
+          <Parameter Name="box_length" TagType="Base" DataType="SINT" Usage="Input" Radix="Decimal" Required="true" Visible="true" ExternalAccess="Read/Write">
+            <DefaultData Format="L5K"><![CDATA[0]]></DefaultData>
+            <DefaultData Format="Decorated">
+              <DataValue DataType="SINT" Radix="Decimal" Value="0" />
+            </DefaultData>
+          </Parameter>
+          <Parameter Name="box_width" TagType="Base" DataType="DINT" Usage="Input" Radix="Decimal" Required="true" Visible="true" ExternalAccess="Read/Write">
+            <DefaultData Format="L5K"><![CDATA[0]]></DefaultData>
+            <DefaultData Format="Decorated">
+              <DataValue DataType="DINT" Radix="Decimal" Value="0" />
+            </DefaultData>
+          </Parameter>
+          <Parameter Name="compareValue_for_box_Area" TagType="Base" DataType="DINT" Usage="Input" Radix="Decimal" Required="true" Visible="true" ExternalAccess="Read/Write">
+            <DefaultData Format="L5K"><![CDATA[0]]></DefaultData>
+            <DefaultData Format="Decorated">
+              <DataValue DataType="DINT" Radix="Decimal" Value="0" />
+            </DefaultData>
+          </Parameter>
+          <Parameter Name="box_area" TagType="Base" DataType="LINT" Usage="Output" Radix="Decimal" Required="true" Visible="true" ExternalAccess="Read Only">
+            <DefaultData Format="L5K"><![CDATA[0]]></DefaultData>
+            <DefaultData Format="Decorated">
+              <DataValue DataType="LINT" Radix="Decimal" Value="0" />
+            </DefaultData>
+          </Parameter>
+          <Parameter Name="area_comparison_result" TagType="Base" DataType="BOOL" Usage="Output" Radix="Decimal" Required="false" Visible="true" ExternalAccess="Read Only">
+            <DefaultData Format="L5K"><![CDATA[0]]></DefaultData>
+            <DefaultData Format="Decorated">
+              <DataValue DataType="BOOL" Radix="Decimal" Value="0" />
+            </DefaultData>
+          </Parameter>
+        </Parameters>
+        <LocalTags />
+        <Routines>
+          <Routine Name="Logic" Type="RLL">
+            <RLLContent>
+              <Rung Number="0" Type="N">
+                <Comment><![CDATA[
+
+
+Utilize LDSDK to set values for box_width & box_length and to get box_area's valu]]></Comment>
+                <Text><![CDATA[MUL(box_width,box_length,box_area);]]></Text>
+              </Rung>
+              <Rung Number="1" Type="N">
+                <Comment><![CDATA[
+Use LDSDK to set compareValue_for_box_area's value and to get area_comparison_result.
+
+]]></Comment>
+                <Text><![CDATA[GT(compareValue_for_box_Area,box_area)OTE(area_comparison_result);]]></Text>
+              </Rung>
+            </RLLContent>
+          </Routine>
+        </Routines>
+      </AddOnInstructionDefinition>
+    </AddOnInstructionDefinitions>
+    <Tags Use="Context">
+      <Tag Name="AOI_RectAreaCalcAndCompare" TagType="Base" DataType="RectAreaCalcAndCompare" Constant="false" ExternalAccess="Read/Write" OpcUaAccess="None">
+        <Description><![CDATA[Automated Testing -------------------- generated AOI tag being unit tested]]></Description>
+        <Data Format="L5K"><![CDATA[[0,0,0,0,0]]]></Data>
+        <Data Format="Decorated">
+          <Structure DataType="RectAreaCalcAndCompare">
+            <DataValueMember Name="EnableIn" DataType="BOOL" Value="1" />
+            <DataValueMember Name="EnableOut" DataType="BOOL" Value="0" />
+            <DataValueMember Name="box_length" DataType="SINT" Radix="Decimal" Value="0" />
+            <DataValueMember Name="box_width" DataType="DINT" Radix="Decimal" Value="0" />
+            <DataValueMember Name="compareValue_for_box_Area" DataType="DINT" Radix="Decimal" Value="0" />
+            <DataValueMember Name="box_area" DataType="LINT" Radix="Decimal" Value="0" />
+            <DataValueMember Name="area_comparison_result" DataType="BOOL" Value="0" />
+          </Structure>
+        </Data>
+      </Tag>
+      <Tag Name="AT_EnableIn" TagType="Base" DataType="BOOL" Radix="Decimal" Constant="false" ExternalAccess="Read/Write" OpcUaAccess="None">
+        <Description><![CDATA[Automated Testing -------------------- set the EnableIn AOI input parameter]]></Description>
+        <Data Format="L5K"><![CDATA[0]]></Data>
+        <Data Format="Decorated">
+          <DataValue DataType="BOOL" Radix="Decimal" Value="0" />
+        </Data>
+      </Tag>
+    </Tags>
+    <Programs Use="Context">
+      <Program Use="Context" Name="P00_UnitTesting">
+        <Routines Use="Context">
+          <Routine Use="Target" Name="R01_UnitTesting" Type="RLL">
+            <RLLContent>
+              <Rung Number="0" Type="N">
+                <Comment><![CDATA[AUTOMATED TESTING | RectAreaCalcAndCompare AOI UNIT TEST
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+This a programmatically created rung with a populated instance of the AOI instruction added using the Logix Designer SDK.]]></Comment>
+                <Text><![CDATA[XIC(AT_EnableIn)RectAreaCalcAndCompare(AOI_RectAreaCalcAndCompare,AOI_RectAreaCalcAndCompare.box_length,AOI_RectAreaCalcAndCompare.box_width,AOI_RectAreaCalcAndCompare.compareValue_for_box_Area,AOI_RectAreaCalcAndCompare.box_area);]]></Text>
+              </Rung>
+            </RLLContent>
+          </Routine>
+        </Routines>
+      </Program>
+    </Programs>
+  </Controller>
+</RSLogix5000Content>

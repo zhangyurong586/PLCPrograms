@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AOI_UnitTesting": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Lab Files\\Automated Testing\\Complete_Files\\Complex\\2 InputExcelSheets\\InputExcelforAOI_RectAreaCalcAndCompare.xlsx\""
+    }
+  }
+}

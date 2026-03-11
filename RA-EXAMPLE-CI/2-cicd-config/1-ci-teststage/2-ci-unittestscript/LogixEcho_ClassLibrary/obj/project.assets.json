@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "RockwellAutomation.FactoryTalkLogixEcho.Api.Client/4.0.1437": {
+        "type": "package",
+        "contentFiles": {
+          "contentFiles/any/any/FtspAdapter/FtspAdapter.exe": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "FtspAdapter.exe"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RockwellAutomation.FactoryTalkLogixEcho.Api.Client/4.0.1437": {
+      "sha512": "a9bjNd7V6X5v7QJ9rBTcvuUsVTt8+kHYgCVJYobaOqP6Qku9GpbGZyFEeCUIj5oQ5XoL2LGI17SnbH4583UH5w==",
+      "type": "package",
+      "path": "rockwellautomation.factorytalklogixecho.api.client/4.0.1437",
+      "files": [
+        ".nupkg.metadata",
+        "contentFiles/any/any/FtspAdapter/FtspAdapter.exe",
+        "lib/net8.0-windows7.0/RockwellAutomation.FactoryTalkLogixEcho.Api.Client.dll",
+        "lib/net8.0-windows7.0/RockwellAutomation.FactoryTalkLogixEcho.Api.Client.xml",
+        "lib/net8.0-windows7.0/RockwellAutomation.FactoryTalkLogixEcho.Api.Interfaces.dll",
+        "lib/net8.0-windows7.0/de/RockwellAutomation.FactoryTalkLogixEcho.Api.Client.resources.dll",
+        "lib/net8.0-windows7.0/es/RockwellAutomation.FactoryTalkLogixEcho.Api.Client.resources.dll",
+        "lib/net8.0-windows7.0/fr/RockwellAutomation.FactoryTalkLogixEcho.Api.Client.resources.dll",
+        "lib/net8.0-windows7.0/it/RockwellAutomation.FactoryTalkLogixEcho.Api.Client.resources.dll",
+        "lib/net8.0-windows7.0/ja/RockwellAutomation.FactoryTalkLogixEcho.Api.Client.resources.dll",
+        "lib/net8.0-windows7.0/ko/RockwellAutomation.FactoryTalkLogixEcho.Api.Client.resources.dll",
+        "lib/net8.0-windows7.0/pt/RockwellAutomation.FactoryTalkLogixEcho.Api.Client.resources.dll",
+        "lib/net8.0-windows7.0/zh/RockwellAutomation.FactoryTalkLogixEcho.Api.Client.resources.dll",
+        "rockwellautomation.factorytalklogixecho.api.client.4.0.1437.nupkg.sha512",
+        "rockwellautomation.factorytalklogixecho.api.client.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "RockwellAutomation.FactoryTalkLogixEcho.Api.Client >= 3.0.1130"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+      "projectName": "LogixEcho_ClassLibrary",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Rockwell Automation SDKs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "RockwellAutomation.FactoryTalkLogixEcho.Api.Client": {
+            "target": "Package",
+            "version": "[3.0.1130, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "LogixEcho_ClassLibrary depends on RockwellAutomation.FactoryTalkLogixEcho.Api.Client (>= 3.0.1130) but RockwellAutomation.FactoryTalkLogixEcho.Api.Client 3.0.1130 was not found. RockwellAutomation.FactoryTalkLogixEcho.Api.Client 4.0.1437 was resolved instead.",
+      "libraryId": "RockwellAutomation.FactoryTalkLogixEcho.Api.Client",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

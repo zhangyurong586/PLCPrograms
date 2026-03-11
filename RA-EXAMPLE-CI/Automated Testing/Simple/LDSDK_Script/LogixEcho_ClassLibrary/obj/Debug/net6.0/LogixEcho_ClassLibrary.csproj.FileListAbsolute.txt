@@ -1,0 +1,84 @@
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\bin\Debug\net6.0\FactoryTalk.Security.Interop.dll
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\bin\Debug\net6.0\FtspAdapter.exe
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.deps.json
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfo.cs
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\refint\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\Users\ASYost\Desktop\UnitTesting\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\ref\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\bin\Debug\net6.0\FactoryTalk.Security.Interop.dll
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\bin\Debug\net6.0\FtspAdapter.exe
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.deps.json
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfo.cs
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\refint\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\Users\ASYost\Desktop\AOI_UnitTesting\LogixEcho_ClassLibrary\obj\Debug\net6.0\ref\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\bin\Debug\net6.0\FactoryTalk.Security.Interop.dll
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\bin\Debug\net6.0\FtspAdapter.exe
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.deps.json
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfo.cs
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\obj\Debug\net6.0\refint\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\Users\ASYost\Desktop\20240924_UnitTest\1 UnitTestingScripts\LogixEcho_ClassLibrary\obj\Debug\net6.0\ref\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\FactoryTalk.Security.Interop.dll
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\FtspAdapter.exe
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.deps.json
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfo.cs
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\refint\LogixEcho_ClassLibrary.dll
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\Users\ASYost\Desktop\20240924_LDSDK_Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\ref\LogixEcho_ClassLibrary.dll
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\FactoryTalk.Security.Interop.dll
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\FtspAdapter.exe
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.deps.json
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.AssemblyReference.cache
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfoInputs.cache
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfo.cs
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\refint\LogixEcho_ClassLibrary.dll
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\Lab Files\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\ref\LogixEcho_ClassLibrary.dll
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\FactoryTalk.Security.Interop.dll
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\FtspAdapter.exe
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.deps.json
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.AssemblyReference.cache
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfoInputs.cache
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfo.cs
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\refint\LogixEcho_ClassLibrary.dll
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\SDK Testing\Automated Testing\Simple\LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\ref\LogixEcho_ClassLibrary.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AOI_UnitTesting": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\ASYost\\Desktop\\20240924_UnitTest\\2 InputExcelSheets\\UPDATEDNEW_WetBulbTemperature_FaultCase.xlsx\""
+    }
+  }
+}
