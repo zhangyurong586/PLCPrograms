@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/hAL3f6fxUM=",
+  "dgSpecHash": "My/eF0Tk1OA=",
   "success": true,
-  "projectFilePath": "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+  "projectFilePath": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\epplus\\7.3.2\\epplus.7.3.2.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",

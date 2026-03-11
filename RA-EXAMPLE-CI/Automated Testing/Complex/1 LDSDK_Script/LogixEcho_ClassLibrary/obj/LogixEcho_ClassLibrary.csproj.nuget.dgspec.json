@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {}
+    "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {
+    "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+        "projectUniqueName": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
         "projectName": "LogixEcho_ClassLibrary",
-        "projectPath": "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+        "projectPath": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\obj\\",
+        "outputPath": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

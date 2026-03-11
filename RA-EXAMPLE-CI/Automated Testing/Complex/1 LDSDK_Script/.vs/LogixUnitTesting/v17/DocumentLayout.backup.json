@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\",
+  "WorkspaceRootPath": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\sdk testing\\automated testing\\complex\\1 ldsdk_script\\logixunittesting_consoleapp\\unittesting_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\sdk testing\\plcprograms\\ra-example-ci\\automated testing\\complex\\1 ldsdk_script\\logixunittesting_consoleapp\\unittesting_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|solutionrelative:logixunittesting_consoleapp\\unittesting_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\sdk testing\\automated testing\\complex\\1 ldsdk_script\\logixunittesting_consoleapp\\unittestscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\sdk testing\\plcprograms\\ra-example-ci\\automated testing\\complex\\1 ldsdk_script\\logixunittesting_consoleapp\\unittestscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|solutionrelative:logixunittesting_consoleapp\\unittestscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTesting_ConsoleApp",
-              "DocumentMoniker": "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+              "DocumentMoniker": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
               "RelativeDocumentMoniker": "LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
-              "ToolTip": "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+              "ToolTip": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
               "RelativeToolTip": "LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-03-10T06:52:18.55Z",
@@ -36,14 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UnitTestScript.cs",
-              "DocumentMoniker": "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
+              "DocumentMoniker": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
               "RelativeDocumentMoniker": "LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
-              "ToolTip": "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
+              "ToolTip": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
               "RelativeToolTip": "LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
               "ViewState": "AgIAAJ8JAAAAAAAAAAAAAKYJAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:19:21.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T15:19:21.714Z"
             }
           ]
         },

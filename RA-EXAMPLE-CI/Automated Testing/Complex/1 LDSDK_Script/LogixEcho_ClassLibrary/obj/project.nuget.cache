@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mnUsOpY23CM=",
+  "dgSpecHash": "11XGbDAq9WA=",
   "success": true,
-  "projectFilePath": "C:\\SDK Testing\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+  "projectFilePath": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\google.protobuf\\3.24.3\\google.protobuf.3.24.3.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\grpc\\2.46.6\\grpc.2.46.6.nupkg.sha512",
