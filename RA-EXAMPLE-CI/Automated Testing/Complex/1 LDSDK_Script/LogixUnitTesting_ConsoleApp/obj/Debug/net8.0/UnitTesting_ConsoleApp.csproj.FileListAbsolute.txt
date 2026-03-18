@@ -490,3 +490,5 @@ C:\SDK Testing\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Scrip
 C:\SDK Testing\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixUnitTesting_ConsoleApp\obj\Debug\net8.0\UnitTesting_ConsoleApp.pdb
 C:\SDK Testing\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixUnitTesting_ConsoleApp\obj\Debug\net8.0\UnitTesting_ConsoleApp.genruntimeconfig.cache
 C:\SDK Testing\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixUnitTesting_ConsoleApp\obj\Debug\net8.0\ref\UnitTesting_ConsoleApp.dll
+C:\SDK Testing\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixUnitTesting_ConsoleApp\obj\Debug\net8.0\UnitTesting_ConsoleApp.Properties.Resources.resources
+C:\SDK Testing\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixUnitTesting_ConsoleApp\obj\Debug\net8.0\UnitTesting_ConsoleApp.csproj.GenerateResource.cache

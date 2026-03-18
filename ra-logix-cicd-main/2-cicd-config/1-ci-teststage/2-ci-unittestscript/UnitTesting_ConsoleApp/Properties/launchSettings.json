@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AOI_UnitTesting": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\ AOI_DelayedSum_Simple.xlsx \"lucy\" zhangyurong586@163.com \"commit message!\" 6f00622bd395b25e985c037a1ba7602604303d1a RA-CI-Jenkinsjob 345 C:\\CI-Pipeline-Files\\"
+    }
+  }
+}
