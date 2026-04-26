@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="RockwellAutomation.FactoryTalkLogixEcho.Api.Client" Version="3.0.1130" />
-    <PackageReference Include="RockwellAutomation.LogixDesigner.CSClient" Version="2.0.861" />
+    <PackageReference Include="RockwellAutomation.LogixDesigner.CSClient" Version="1.1.599" />
   </ItemGroup>
 
 </Project>

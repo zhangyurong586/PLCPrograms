@@ -1,22 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\",
+  "WorkspaceRootPath": "C:\\data\\jenkins_home\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\sdk testing\\plcprograms\\ra-example-ci\\automated testing\\complex\\1 ldsdk_script\\logixunittesting_consoleapp\\unittestscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\data\\jenkins_home\\plcprograms\\ra-example-ci\\automated testing\\complex\\1 ldsdk_script\\logixunittesting_consoleapp\\unittestscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|solutionrelative:logixunittesting_consoleapp\\unittestscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\sdk testing\\plcprograms\\ra-example-ci\\automated testing\\complex\\1 ldsdk_script\\logixunittesting_consoleapp\\unittesting_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\data\\jenkins_home\\plcprograms\\ra-example-ci\\automated testing\\complex\\1 ldsdk_script\\logixunittesting_consoleapp\\unittesting_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|solutionrelative:logixunittesting_consoleapp\\unittesting_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\sdk testing\\plcprograms\\ra-example-ci\\automated testing\\complex\\1 ldsdk_script\\logixunittesting_consoleapp\\l5xfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|solutionrelative:logixunittesting_consoleapp\\l5xfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\sdk testing\\plcprograms\\ra-example-ci\\automated testing\\complex\\1 ldsdk_script\\logixunittesting_consoleapp\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{9E22E0DF-28FE-4FA5-A536-D5F2CE78B628}|LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|solutionrelative:logixunittesting_consoleapp\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\.nuget\\packages\\epplus\\8.5.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,68 +21,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTestScript.cs",
-              "DocumentMoniker": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
-              "RelativeDocumentMoniker": "LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
-              "ToolTip": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
-              "RelativeToolTip": "LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
-              "ViewState": "AgIAAAgBAAAAAAAAAAAawA4BAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T03:20:13.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "L5XFiles.cs",
-              "DocumentMoniker": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\L5XFiles.cs",
-              "RelativeDocumentMoniker": "LogixUnitTesting_ConsoleApp\\L5XFiles.cs",
-              "ToolTip": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\L5XFiles.cs",
-              "RelativeToolTip": "LogixUnitTesting_ConsoleApp\\L5XFiles.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T03:20:03.325Z"
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\.nuget\\packages\\epplus\\8.5.3\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Users\\Administrator\\.nuget\\packages\\epplus\\8.5.3\\readme.txt",
+              "ToolTip": "C:\\Users\\Administrator\\.nuget\\packages\\epplus\\8.5.3\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Users\\Administrator\\.nuget\\packages\\epplus\\8.5.3\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-26T01:32:43.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UnitTesting_ConsoleApp",
-              "DocumentMoniker": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+              "DocumentMoniker": "C:\\data\\jenkins_home\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
               "RelativeDocumentMoniker": "LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
-              "ToolTip": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+              "ToolTip": "C:\\data\\jenkins_home\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
               "RelativeToolTip": "LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-10T06:52:18.55Z"
+              "WhenOpened": "2026-04-25T08:42:42.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "LogixUnitTesting_ConsoleApp\\Properties\\Resources.resx",
-              "ToolTip": "C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\Properties\\Resources.resx",
-              "RelativeToolTip": "LogixUnitTesting_ConsoleApp\\Properties\\Resources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-03-12T01:49:20.061Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 653,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "DocumentIndex": 0,
+              "Title": "UnitTestScript.cs",
+              "DocumentMoniker": "C:\\data\\jenkins_home\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
+              "RelativeDocumentMoniker": "LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
+              "ToolTip": "C:\\data\\jenkins_home\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
+              "RelativeToolTip": "LogixUnitTesting_ConsoleApp\\UnitTestScript.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAowBEBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:08:45.943Z",
+              "EditorCaption": ""
             }
           ]
         }

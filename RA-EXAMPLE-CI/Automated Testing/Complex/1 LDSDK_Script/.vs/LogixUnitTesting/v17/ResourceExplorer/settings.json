@@ -1,16 +1,1 @@
-{
-  "ShowEmptyProjects": false,
-  "SelectedGroups": [],
-  "ExpandedProjects": [],
-  "EnableSpellChecker": true,
-  "ColumnOrder": [
-    "name",
-    "type",
-    "neutral-value",
-    "neutral-comment"
-  ],
-  "VisibleColumnKeys": [
-    "name",
-    "neutral-value"
-  ]
-}
+{"ShowEmptyProjects":false,"CustomColumnOrderings":{},"ShowValidationErrors":true,"SelectedResourceGroupsByProjectFilePath":{"C:\\data\\jenkins_home\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj":["C:\\data\\jenkins_home\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\1 LDSDK_Script\\LogixUnitTesting_ConsoleApp\\Properties\\Resources.resx"]},"VisibleColumnKeys":["name","neutral-value"]}

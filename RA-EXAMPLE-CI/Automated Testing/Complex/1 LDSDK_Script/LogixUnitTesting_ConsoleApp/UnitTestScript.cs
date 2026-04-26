@@ -268,6 +268,7 @@ namespace UnitTest
             // Populate the above variables from the input excel file.
             using (ExcelPackage package = new ExcelPackage(new FileInfo(inputArg_inputExcelFilePath)))
             {
+                ExcelPackage.License.SetNonCommercialOrganization("EPPlus Software AB"); 
                 ExcelWorksheet inputExcelWorksheet = package.Workbook.Worksheets.FirstOrDefault()!;
                 iExcel_testObjectFilePath = inputExcelWorksheet.Cells[9, 2].Value.ToString()!.Trim()!;
                 iExcel_keepACDs = bool.Parse(inputExcelWorksheet.Cells[9, 16].Value?.ToString()!.Trim()!);

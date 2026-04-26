@@ -9,9 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EPPlus" Version="7.3.2" />
+    <PackageReference Include="EPPlus" Version="8.5.3" />
     <PackageReference Include="RockwellAutomation.FactoryTalkLogixEcho.Api.Client" Version="3.0.1130" />
-    <PackageReference Include="RockwellAutomation.LogixDesigner.CSClient" Version="2.0.861" />
+    <PackageReference Include="RockwellAutomation.LogixDesigner.CSClient" Version="2.1.974" />
     <PackageReference Include="System.Text.Json" Version="8.0.5" />
   </ItemGroup>
 

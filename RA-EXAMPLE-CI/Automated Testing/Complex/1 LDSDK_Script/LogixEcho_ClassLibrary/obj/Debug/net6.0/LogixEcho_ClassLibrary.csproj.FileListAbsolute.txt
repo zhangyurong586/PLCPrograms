@@ -97,3 +97,18 @@ C:\SDK Testing\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Scrip
 C:\SDK Testing\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\refint\LogixEcho_ClassLibrary.dll
 C:\SDK Testing\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.pdb
 C:\SDK Testing\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\ref\LogixEcho_ClassLibrary.dll
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\FactoryTalk.Security.Interop.dll
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\FtspAdapter.exe
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.deps.json
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\bin\Debug\net6.0\LogixEcho_ClassLibrary.pdb
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.AssemblyReference.cache
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfoInputs.cache
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.AssemblyInfo.cs
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.sourcelink.json
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\LogixEcho_ClassLibrary.dll
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\refint\LogixEcho_ClassLibrary.dll
+C:\data\jenkins_home\PLCPrograms\RA-EXAMPLE-CI\Automated Testing\Complex\1 LDSDK_Script\LogixEcho_ClassLibrary\obj\Debug\net6.0\ref\LogixEcho_ClassLibrary.dll

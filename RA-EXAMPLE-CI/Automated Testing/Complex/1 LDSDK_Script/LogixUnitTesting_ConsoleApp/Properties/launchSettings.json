@@ -2,7 +2,7 @@
   "profiles": {
     "AOI_UnitTesting": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\SDK Testing\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\2 InputExcelSheets\\InputExcelforAOI_RectAreaCalcAndCompare.xlsx\""
+      "commandLineArgs": "\"C:\\data\\jenkins_home\\PLCPrograms\\RA-EXAMPLE-CI\\Automated Testing\\Complex\\2 InputExcelSheets\\InputExcelforAOI_RectAreaCalcAndCompare.xlsx\""
     }
   }
 }

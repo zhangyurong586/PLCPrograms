@@ -9,7 +9,7 @@
       "LogixEcho_ClassLibrary/1.0.0": {
         "dependencies": {
           "RockwellAutomation.FactoryTalkLogixEcho.Api.Client": "3.0.1130",
-          "RockwellAutomation.LogixDesigner.CSClient": "2.0.861"
+          "RockwellAutomation.LogixDesigner.CSClient": "1.1.599"
         },
         "runtime": {
           "LogixEcho_ClassLibrary.dll": {}
@@ -30,7 +30,7 @@
       },
       "Grpc.Core/2.46.6": {
         "dependencies": {
-          "Grpc.Core.Api": "2.46.6",
+          "Grpc.Core.Api": "2.57.0",
           "System.Memory": "4.5.3"
         },
         "runtime": {
@@ -67,14 +67,42 @@
           }
         }
       },
-      "Grpc.Core.Api/2.46.6": {
-        "dependencies": {
-          "System.Memory": "4.5.3"
-        },
+      "Grpc.Core.Api/2.57.0": {
         "runtime": {
           "lib/netstandard2.1/Grpc.Core.Api.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.46.6.0"
+            "fileVersion": "2.57.0.0"
+          }
+        }
+      },
+      "Grpc.Net.Client/2.57.0": {
+        "dependencies": {
+          "Grpc.Net.Common": "2.57.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Grpc.Net.Client.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.57.0.0"
+          }
+        }
+      },
+      "Grpc.Net.Common/2.57.0": {
+        "dependencies": {
+          "Grpc.Core.Api": "2.57.0"
+        },
+        "runtime": {
+          "lib/net6.0/Grpc.Net.Common.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.57.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
           }
         }
       },
@@ -135,7 +163,19 @@
           }
         }
       },
-      "RockwellAutomation.LogixDesigner.CSClient/2.0.861": {},
+      "RockwellAutomation.LogixDesigner.CSClient/1.1.599": {
+        "dependencies": {
+          "Google.Protobuf": "3.24.3",
+          "Grpc.Net.Client": "2.57.0",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/RockwellAutomation.LogixDesigner.LogixProject.CSClient.dll": {
+            "assemblyVersion": "1.1.599.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
       "System.IO.FileSystem.AccessControl/5.0.0": {
         "dependencies": {
           "System.Security.AccessControl": "5.0.0",
@@ -179,12 +219,33 @@
       "path": "grpc.core/2.46.6",
       "hashPath": "grpc.core.2.46.6.nupkg.sha512"
     },
-    "Grpc.Core.Api/2.46.6": {
+    "Grpc.Core.Api/2.57.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Z7HJGqJYyKb53qfp1jf0wRDYs3sxOnkAFxXAW6q52LLmX/zxzjtFLI9eaWO5UC0weiWjn4iT1FzR+tj9qYZAMg==",
-      "path": "grpc.core.api/2.46.6",
-      "hashPath": "grpc.core.api.2.46.6.nupkg.sha512"
+      "sha512": "sha512-48jpfMyYdhaPS6PGnk7sEqSO3+c/w11ahY+a33ymo0BsQEsBVIoJoS5xMsl5RzBlpKY41PnN+qJGMm3VyE5OQg==",
+      "path": "grpc.core.api/2.57.0",
+      "hashPath": "grpc.core.api.2.57.0.nupkg.sha512"
+    },
+    "Grpc.Net.Client/2.57.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vVDW0ePnaH9Na+wjm64vpzdj05JEjOCmAXUlANVc+s3hBBreEizfbmlzWPjsL6ZskaSrA59Ckb0J2l1HMvtMHQ==",
+      "path": "grpc.net.client/2.57.0",
+      "hashPath": "grpc.net.client.2.57.0.nupkg.sha512"
+    },
+    "Grpc.Net.Common/2.57.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-babJpsAwVH3lPjg8cvWGqW+Fos1RN+cqudfkW2EyB2DK2v5yjD2axZ1Uay6kR6ec2/p9ljodktrfoJ2lJ/pwnQ==",
+      "path": "grpc.net.common/2.57.0",
+      "hashPath": "grpc.net.common.2.57.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/HggWBbTwy8TgebGSX5DBZ24ndhzi93sHUBDvP1IxbZD7FDokYzdAr6+vbWGjw2XAfR2EJ1sfKUotpjHnFWPxA==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/5.0.0": {
       "type": "package",
@@ -207,12 +268,12 @@
       "path": "rockwellautomation.factorytalklogixecho.api.client/3.0.1130",
       "hashPath": "rockwellautomation.factorytalklogixecho.api.client.3.0.1130.nupkg.sha512"
     },
-    "RockwellAutomation.LogixDesigner.CSClient/2.0.861": {
+    "RockwellAutomation.LogixDesigner.CSClient/1.1.599": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-cw5i3J/ghUGUfJFTOX6CvGxOMom/pruhYezxlIkW1MKmQCjwu5OQU/ql2Ro+pH4PgjLDbq2bbX1TGq5TRtGKSQ==",
-      "path": "rockwellautomation.logixdesigner.csclient/2.0.861",
-      "hashPath": "rockwellautomation.logixdesigner.csclient.2.0.861.nupkg.sha512"
+      "sha512": "sha512-yiFcr6hv9GdrjSnwO5fq0aoqYMd7uKn+Duv+CjkYt2T3JiAsplXRlNRVLOS3C17RrZ+4Zt7FjiyRTGyoShbpAQ==",
+      "path": "rockwellautomation.logixdesigner.csclient/1.1.599",
+      "hashPath": "rockwellautomation.logixdesigner.csclient.1.1.599.nupkg.sha512"
     },
     "System.IO.FileSystem.AccessControl/5.0.0": {
       "type": "package",
